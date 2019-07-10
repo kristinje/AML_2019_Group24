@@ -1,4 +1,4 @@
-# AML_2019_Coursework-Group-24
+# AML_2019_Group24
 -----------
 
 ## Introduction
